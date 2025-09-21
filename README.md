@@ -2,12 +2,15 @@
 
 An interactive portfolio built with Kaboom.js
 
+
+LIVE DEMO: https://f-mustafa.github.io/portfolio-live/
+
+
 Walk around a virtual room, click on objects, and learn more about me, my skills, and my projects.
 
 Features
 
 --> Playable character with keyboard and mouse movement
-
 --> Interactive objects that reveal details about my background and work
 
 
